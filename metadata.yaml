@@ -1,0 +1,9 @@
+name: httpd
+maintainer:
+  - John Doe <rather@not.say>
+summary: "the worst demo in the world"
+description: |
+    it's like apache, only httpd
+provides:
+  website:
+    interface: http
